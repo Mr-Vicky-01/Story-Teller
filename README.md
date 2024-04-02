@@ -1,3 +1,5 @@
+![OIP](https://github.com/Mr-Vicky-01/Code-Assistant/assets/143078285/8439830e-5eee-45fb-a04a-e7944fbecf4b)
+
 # Story Teller
 
 Story Teller is a project that generates short stories from images using image captioning and language generation techniques. It utilizes machine learning models from the Hugging Face Transformers library and LangChain API to process images, generate captions, and produce stories based on those captions. Additionally, it employs a text-to-speech model to convert the generated stories into audio format.
@@ -51,3 +53,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Thanks to ESPnet for providing the text-to-speech model.
 
 ## Demo
+https://github.com/Mr-Vicky-01/Code-Assistant/assets/143078285/b2c8c0c7-1799-41dc-a5a5-e58e675b84d2
