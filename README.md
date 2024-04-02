@@ -53,4 +53,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Thanks to ESPnet for providing the text-to-speech model.
 
 ## Demo
-https://github.com/Mr-Vicky-01/Code-Assistant/assets/143078285/b2c8c0c7-1799-41dc-a5a5-e58e675b84d2
+https://github.com/Mr-Vicky-01/Code-Assistant/assets/143078285/42cbf3c2-d3fa-4773-a3a3-9f34842d22c2
